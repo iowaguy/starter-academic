@@ -15,3 +15,6 @@ academic import --bibtex ~/Downloads/mypubs.bib
 - [**Netlify stuff**](https://app.netlify.com/sites/optimistic-knuth-570ee6/settings/domain)
 - 👉 [**Get Started**](https://wowchemy.com/docs/install/)
 - 📚 [**Documentation**](https://wowchemy.com/docs/)
+- Go
+  [here](https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy)
+  for updating layout html
