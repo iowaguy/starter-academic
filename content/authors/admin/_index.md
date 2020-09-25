@@ -14,6 +14,8 @@ role: PhD Student, Computer Science
 
 # Organizations/Affiliations
 organizations:
+# - name: Cybersecurity and Privacy Institute
+#  url: "https://cyber.khoury.northeastern.edu/"
 - name: Northeastern University
   url: "https://www.northeastern.edu/"
 
@@ -60,4 +62,11 @@ education:
 #- Visitors
 ---
 
-I am a second year PhD student at Northeastern University where I’m advised by with [Cristina Nita-Rotaru](http://cnitarot.github.io/) in the [Networks and Distributed Systems Security](https://nds2.ccs.neu.edu/) lab. My current research is focused on privacy-preserving routing in various contexts. Before coming to Northeastern, I worked as a Software Engineer in Silicon Valley.
+I am a second year PhD student at Northeastern University in the [Networks and
+Distributed Systems Security](https://nds2.ccs.neu.edu/) lab where I work with
+Professor [Cristina Nita-Rotaru](http://cnitarot.github.io/). My current
+research is focused on privacy-preserving routing in various contexts. In a
+previous life, I was a Software Engineer in Silicon Valley.
+
+When I'm not doing computer science, I enjoy reading (mostly non-fiction),
+playing ultimate, and backpacking as far from civilization as I can get.
