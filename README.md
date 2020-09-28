@@ -1,3 +1,6 @@
+[![Netlify
+Status](https://api.netlify.com/api/v1/badges/383c111d-f57f-4f9b-ae9a-bb7118a5aa58/deploy-status)](https://app.netlify.com/sites/optimistic-knuth-570ee6/deploys)
+
 # Things I Want to Remember
 
 ## Updating Personal Information
