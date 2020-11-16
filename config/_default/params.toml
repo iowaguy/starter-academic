@@ -88,7 +88,7 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ben AT weintraub DOT xyz"
+email = "weintraub.b (AT) northeastern (DOT) edu"
 #phone = "888 888 88 88"
 
 # Address
@@ -167,8 +167,8 @@ sharing = false
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
-# Highlight the site author (superuser) in author lists? (true/false)
-highlight_superuser = true
+# # Highlight the site author (superuser) in author lists? (true/false)
+# highlight_superuser = true
 
 # Link authors to their profile page? (true/false)
 link_authors = true

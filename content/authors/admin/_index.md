@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight name in publications
+highlight_name: true
+
 # Role/position
 role: PhD Student, Computer Science
 
