@@ -50,8 +50,6 @@
       {{ if eq $item.Type "talk" }}
       <div>
         <span>
-          {{ $item.Params.event }}
-          </br>
           {{ partial "functions/get_event_dates" $item }}
         </span>
         {{ with $item.Params.location }}

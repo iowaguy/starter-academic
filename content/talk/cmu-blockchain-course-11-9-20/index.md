@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "How To Avoid Blockchains, and Is That Even Safe?"
-event: "Guest Lecture, Blockchain Fundamentals, Carnegie Mellon University"
+event:
 event_url:
-location:
+location: "Carnegie Mellon University"
 address:
   street:
   city:
