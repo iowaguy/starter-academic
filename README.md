@@ -14,6 +14,20 @@ publications from Zotero in BibTex format into `~/Downloads/mypubs.bib`
 academic import --bibtex ~/Downloads/mypubs.bib
 ```
 
+## Adding a talk
+``` shell
+hugo new --kind talk talk/mit-sec-sem-exploiting-centrality
+```
+
+## Run site locally
+
+``` shell
+hugo server
+```
+
+## Updating headers
+Section text is in `content/.../_index.md`.
+
 ## Useful links
 - [**Netlify stuff**](https://app.netlify.com/sites/optimistic-knuth-570ee6/settings/domain)
 - 👉 [**Get Started**](https://wowchemy.com/docs/install/)

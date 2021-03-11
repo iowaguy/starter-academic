@@ -26,10 +26,10 @@ organizations:
 bio: My research interests include distributed systems, cryptocurrencies, and anonymity networks.
 
 interests:
-- Distributed Systems
-- Network Security
-- Cryptocurrencies
-- Routing Protocols
+- Distributed Ledgers
+- Anonymous Communication
+- Peer-to-Peer Networks
+- Network Protocols
 
 education:
   courses:
