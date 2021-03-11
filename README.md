@@ -26,7 +26,7 @@ hugo server
 ```
 
 ## Updating headers
-Section text is in `content/.../_index.md`.
+Section text is in `content/home/...`.
 
 ## Useful links
 - [**Netlify stuff**](https://app.netlify.com/sites/optimistic-knuth-570ee6/settings/domain)
