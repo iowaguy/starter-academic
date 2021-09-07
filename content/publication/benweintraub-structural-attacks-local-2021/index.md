@@ -36,4 +36,7 @@ abstract: ''
 publication: '*2021 IEEE European Symposium on Security and Privacy Workshops*'
 doi: 10.1109/EuroSPW54576.2021.00046
 url_pdf: files/weintraubStructuralAttacksLocal.pdf
+url_code: https://github.com/iowaguy/pcn-simulator
+url_video:
+url_slides: files/ieee-s-and-b-9-6-2021.pdf
 ---
