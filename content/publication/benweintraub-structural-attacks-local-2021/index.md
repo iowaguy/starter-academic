@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-07T15:45:55.564418Z'
+publishDate: '2021-09-07T18:23:29.399772Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2021 IEEE European Symposium on Security and Privacy Workshops*'
+publication: '*S&B: Workshop on Security & Privacy on the Blockchain*'
 doi: 10.1109/EuroSPW54576.2021.00046
 url_pdf: files/weintraubStructuralAttacksLocal.pdf
 url_code: https://github.com/iowaguy/pcn-simulator

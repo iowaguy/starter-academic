@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Policy management, enforcement, and audit for data security
+title: Policy Management, Enforcement, and Audit for Data Security
 subtitle: ''
 summary: ''
 authors:
-- Ben Weintraub
+- Benjamin L. Weintraub
 - Pratik Verma
 tags:
-- '"access"'
-- '"data"'
-- '"point"'
-- '"policy"'
-- '"user"'
+- access
+- data
+- point
+- policy
+- user
 categories: []
 date: '2018-10-01'
 lastmod: 2020-09-24T20:12:59-04:00
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-25T00:12:59.825463Z'
+publishDate: '2021-09-07T18:23:29.682647Z'
 publication_types:
-- 8
+- '8'
 abstract: ''
 publication: ''
 url_pdf: https://patents.google.com/patent/US10091212B2/en

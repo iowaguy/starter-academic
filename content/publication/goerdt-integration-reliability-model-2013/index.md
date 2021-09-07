@@ -10,7 +10,7 @@ authors:
 - Amer Dababneh
 - Timothy Marler
 - Ibrahim Ozbolat
-- Ben Weintraub
+- Benjamin Weintraub
 - Ross Johnson
 tags: []
 categories: []
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-25T00:12:59.668323Z'
+publishDate: '2021-09-07T18:23:29.541191Z'
 publication_types:
-- 1
+- '0'
 abstract: The field of modeling and simulation continues to grow and help reduce costs
   and increase development speed in the engineering community, but use of such capabilities
   has been minimal with respect to circuit board visualization and reliability. This
@@ -46,7 +46,10 @@ abstract: The field of modeling and simulation continues to grow and help reduce
   interface and display in a virtual environment combine to create a novel tool for
   the identification of problem areas and planning for future maintenance of electromechanical
   systems.
-publication: '*Volume 11: Emerging Technologies*'
+publication: ''
 url_pdf: /files/PREVIEW-publication.pdf
 doi: 10.1115/IMECE2013-65668
+links:
+- name: URL
+  url: https://doi.org/10.1115/IMECE2013-65668
 ---
