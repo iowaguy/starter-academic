@@ -49,7 +49,4 @@ abstract: The field of modeling and simulation continues to grow and help reduce
 publication: ''
 url_pdf: /files/PREVIEW-publication.pdf
 doi: 10.1115/IMECE2013-65668
-links:
-- name: URL
-  url: https://doi.org/10.1115/IMECE2013-65668
 ---
