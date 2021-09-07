@@ -8,13 +8,8 @@ let
           owner = "iowaguy";
           repo = "hugo-academic-cli";
           rev = "294dffdd5c126f3dfd0a0aa4a45314c98b3db0f8";
-          #sha256 = "0000000000000000000000000000000000000000000000000000";
           sha256 = "1vf344528ph6547ad3sg7a0kvzdgk4xchhy0wxhs3avjksjkk1kw";
         };
-    # src = pkgs.fetchurl {
-    #   sha256 = "0h3kym6xpg36d0qgb29823r2999710zranhrv10cccvbjrv6pf6g";
-    #   url = "https://github.com/wowchemy/hugo-academic-cli/archive/refs/tags/0.7.0.tar.gz";
-    # };
 
     doCheck = false;
 
