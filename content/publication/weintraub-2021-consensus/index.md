@@ -31,6 +31,6 @@ publishDate: '2021-09-07T18:23:29.816884Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: 'U.S. Patent'
 url_pdf: https://patents.google.com/patent/US11005889/en
 ---

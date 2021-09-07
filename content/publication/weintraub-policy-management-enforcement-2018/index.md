@@ -37,6 +37,6 @@ publishDate: '2021-09-07T18:23:29.682647Z'
 publication_types:
 - '8'
 abstract: ''
-publication: ''
+publication: 'U.S. Patent'
 url_pdf: https://patents.google.com/patent/US10091212B2/en
 ---

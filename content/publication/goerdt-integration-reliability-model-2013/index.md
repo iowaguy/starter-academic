@@ -45,7 +45,7 @@ abstract: The field of modeling and simulation continues to grow and help reduce
   interface and display in a virtual environment combine to create a novel tool for
   the identification of problem areas and planning for future maintenance of electromechanical
   systems.
-publication: ''
+publication: 'ASME International Mechanical Engineering Congress and Exposition'
 url_pdf: /files/PREVIEW-publication.pdf
 doi: 10.1115/IMECE2013-65668
 ---
