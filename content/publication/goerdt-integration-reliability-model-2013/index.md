@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Integration of a Reliability Model Within a Virtual Analysis System for Printed
-  Circuit Boards
+title: "Integration of a Reliability Model Within a Virtual Analysis System for Printed Circuit Boards"
 subtitle: ''
 summary: ''
 authors:
