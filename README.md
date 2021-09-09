@@ -11,7 +11,7 @@ Status](https://api.netlify.com/api/v1/badges/383c111d-f57f-4f9b-ae9a-bb7118a5aa
 This is how to update publications. Before running this command, export
 new publications from Zotero in BibTex format into `MyPubs.bib`
 ``` shell
-academic import --bibtex MyPubs.bib --overwrite
+academic import --bibtex MyPubs.bib
 ```
 
 ## Adding a talk
