@@ -33,7 +33,7 @@ publishDate: '2021-09-07T18:23:29.399772Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*S&B: Workshop on Security & Privacy on the Blockchain*'
+publication: '*Workshop on Security & Privacy on the Blockchain*'
 doi: 10.1109/EuroSPW54576.2021.00046
 url_pdf: files/weintraubStructuralAttacksLocal.pdf
 url_code: https://github.com/iowaguy/pcn-simulator
